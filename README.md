@@ -7,10 +7,10 @@
 > ### 📱 App Analysis & Design Project – "우리 동네 맛집은 어디?"
 >
 > - **개요**  
->   어플 개발에 앞서 요구사항 분석과 설계 활동을 수행하고 문서화한 프로젝트입니다.  
->   실제 구현 전 단계에서 체계적인 설계 경험을 쌓았습니다.
+>   - 어플 개발에 앞서 요구사항 분석과 설계 활동을 수행하고 문서화한 프로젝트입니다.  
+>   - 실제 구현 전 단계에서 체계적인 설계 경험을 쌓았습니다.
 >
-> - **주요 산출물**  
+> - **문서 자료**  
 >   - [Use case diagram](https://drive.google.com/uc?export=view&id=1-2InpQYaBowerJTdxDc0XtblV9MYtg2a)
 >   - [Class diagram](https://drive.google.com/uc?export=view&id=11LeEwEjMU9fN-Q0ctIwlA4f8Ticr6rvW)  
 >   - [Sequence diagram](https://drive.google.com/uc?export=view&id=1pZvAkgdLv91YX0lTkd70iYVTqKiT3zSR)  
@@ -24,11 +24,45 @@
 > - **레포지토리 링크**  
 >   [🔗 View Repo](https://github.com/yujin1875/SW_project1)
 
-> **WEB Projects**  
-> - Dressing: 옷 코디 추천 시스템  
-> - Goseumdochi: 학원 강의 포털 & AI 커뮤니티
+> ### 🌐 App Development Project – "Dressing 옷 코디 추천 시스템"
+> 
+> - **개요**  
+>   - 사용자가 옷을 등록하고 카테고리별로 관리하며, ai 코디 추천 기능을 제공하는 웹 애플리케이션을 개발한 프로젝트입니다.  
+>   - 회원과 관리자가 사용할 수 있는 다양한 기능을 구현하며 실제 웹 서비스 환경에서 동작하는 시스템을 완성했습니다.  
+>   
+> - **문서 자료**  
+>   - [SRS & system testing](https://github.com/yujin1875/SE-Dressing/blob/main/Documents/%5BSE%5D%20%EA%B3%BC%EC%A0%9C1%20-%20SRS.pdf)
+>   - [SDS(다이어그램 및 프로토타입)](https://github.com/yujin1875/SE-Dressing/blob/main/Documents/2.%20%5BSE%5D%20SDS.pdf)
+>
+> - **주요작업**  
+>   - 개발
+>  
+> - **기술스택**
+>   - Backend: JAVA spring
+>   - Frontend: React
+>   - DB: MySQL
+>   - Tools: GitHub, StarUML
+> 
+> - **레포지토리 링크**  
+>   [🔗 View Repo](https://github.com/yujin1875/SE-Dressing)
 
-> ### 🌐 Collaborative Fork & Feature Development Project
+> ### 🌐 App Development Project – "Goseumdochi 학원 강의 포털 & AI 커뮤니티"
+> - **개요**  
+>
+> - **문서 자료**
+>   
+> - **주요 작업**
+>   
+> - **기술스택**
+>   - Backend: JAVA spring
+>   - Frontend: React
+>   - DB: MySQL
+>   - Tools: GitHub, StarUML
+>     
+> - **레포지토리 링크**  
+>   [🔗 View Repo](https://github.com/yujin1875/Goseumdochi-official)
+
+> ### 👥 Collaborative Fork & Feature Development Project
 >
 > - **개요**  
 >   100명이 넘는 학생들과 함께 진행한 협력 프로젝트입니다.  

@@ -11,12 +11,11 @@
 >   실제 구현 전 단계에서 체계적인 설계 경험을 쌓았습니다.
 >
 > - **주요 산출물**  
->   - [Use case analysis](https://github.com/yujin1875/SW_project1/blob/main/Final%20Report/%5BAnalysis%5D.hwp)  
->   - [Domain analysis](https://github.com/yujin1875/SW_project1/blob/main/Final%20Report/%5BAnalysis%5D.hwp)  
->   - [User Interface prototype](https://github.com/yujin1875/SW_project1/blob/main/Final%20Report/%5BAnalysis%5D.hwp)  
+>   - [Use case diagram](https://drive.google.com/uc?export=view&id=1-2InpQYaBowerJTdxDc0XtblV9MYtg2a)
 >   - [Class diagram](https://github.com/yujin1875/SW_project1/blob/main/Final%20Report/%5BDesign%5D.hwp)  
 >   - [Sequence diagram](https://github.com/yujin1875/SW_project1/blob/main/Final%20Report/%5BDesign%5D.hwp)  
 >   - [State machine diagram](https://github.com/yujin1875/SW_project1/blob/main/Final%20Report/%5BDesign%5D.hwp)
+>   - [User Interface prototype](https://github.com/yujin1875/SW_project1/blob/main/Final%20Report/%5BAnalysis%5D.hwp)  
 >
 > - **성과**  
 >   - 어플 개발 전 체계적인 설계 과정을 경험하고 문서화  

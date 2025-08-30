@@ -12,10 +12,10 @@
 >
 > - **주요 산출물**  
 >   - [Use case diagram](https://drive.google.com/uc?export=view&id=1-2InpQYaBowerJTdxDc0XtblV9MYtg2a)
->   - [Class diagram](https://github.com/yujin1875/SW_project1/blob/main/Final%20Report/%5BDesign%5D.hwp)  
->   - [Sequence diagram](https://github.com/yujin1875/SW_project1/blob/main/Final%20Report/%5BDesign%5D.hwp)  
->   - [State machine diagram](https://github.com/yujin1875/SW_project1/blob/main/Final%20Report/%5BDesign%5D.hwp)
->   - [User Interface prototype](https://github.com/yujin1875/SW_project1/blob/main/Final%20Report/%5BAnalysis%5D.hwp)  
+>   - [Class diagram](https://drive.google.com/uc?export=view&id=11LeEwEjMU9fN-Q0ctIwlA4f8Ticr6rvW)  
+>   - [Sequence diagram](https://drive.google.com/uc?export=view&id=1pZvAkgdLv91YX0lTkd70iYVTqKiT3zSR)  
+>   - [State machine diagram](https://drive.google.com/uc?export=view&id=1QnEtr_dx6ZLDqLQcRkbadXlkbUW2jLeS)
+>   - [User Interface prototype](https://drive.google.com/uc?export=view&id=1P9KiDN0S8NB52UWo0cOQuK-44ltgBBaX)  
 >
 > - **성과**  
 >   - 어플 개발 전 체계적인 설계 과정을 경험하고 문서화  

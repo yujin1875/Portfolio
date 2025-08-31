@@ -10,16 +10,12 @@
 >   - 어플 개발에 앞서 요구사항 분석과 설계 활동을 수행하고 문서화한 프로젝트입니다.  
 >   - 실제 구현 전 단계에서 체계적인 설계 경험을 쌓았습니다.
 >
-> - **문서 자료**  
->   - [Use case diagram](https://drive.google.com/uc?export=view&id=1-2InpQYaBowerJTdxDc0XtblV9MYtg2a)
->   - [Class diagram](https://drive.google.com/uc?export=view&id=11LeEwEjMU9fN-Q0ctIwlA4f8Ticr6rvW)  
->   - [Sequence diagram](https://drive.google.com/uc?export=view&id=1pZvAkgdLv91YX0lTkd70iYVTqKiT3zSR)  
->   - [State machine diagram](https://drive.google.com/uc?export=view&id=1QnEtr_dx6ZLDqLQcRkbadXlkbUW2jLeS)
->   - [User Interface prototype](https://drive.google.com/uc?export=view&id=1P9KiDN0S8NB52UWo0cOQuK-44ltgBBaX)  
+> - **문서자료**  
+>   - [SDS(다이어그램 및 프로토타입)](https://github.com/yujin1875/SW_project1/tree/main/Final%20Report)
 >
-> - **성과**  
+> - **주요활동**  
 >   - 어플 개발 전 체계적인 설계 과정을 경험하고 문서화  
->   - 요구사항과 설계 구조를 명확히 정의하여 개발 준비 완료
+>   - 요구사항과 설계 구조를 명확히 정의하여 개발 준비
 >
 > - **레포지토리 링크**  
 >   [🔗 View Repo](https://github.com/yujin1875/SW_project1)
@@ -30,17 +26,23 @@
 >   - 사용자가 옷을 등록하고 카테고리별로 관리하며, ai 코디 추천 기능을 제공하는 웹 애플리케이션을 개발한 프로젝트입니다.  
 >   - 회원과 관리자가 사용할 수 있는 다양한 기능을 구현하며 실제 웹 서비스 환경에서 동작하는 시스템을 완성했습니다.  
 >   
-> - **문서 자료**  
+> - **문서자료**  
 >   - [SRS & system testing](https://github.com/yujin1875/SE-Dressing/blob/main/Documents/%5BSE%5D%20%EA%B3%BC%EC%A0%9C1%20-%20SRS.pdf)
 >   - [SDS(다이어그램 및 프로토타입)](https://github.com/yujin1875/SE-Dressing/blob/main/Documents/2.%20%5BSE%5D%20SDS.pdf)
 >
 > - **주요작업**  
->   - 개발
->  
+>   > - 옷장 관리 기능
+>   >  > - 사용자가 옷 이미지를 업로드하고, 업로드된 이미지를 DB에 저장 후 메인 페이지에서 확인 가능
+>   >  > - 등록된 옷 이미지를 삭제할 수 있는 기능 제공
+>   >  > - 세션(HttpSession)을 통해 로그인한 사용자의 ID를 기반으로 개인화된 옷 관리 기능 지원
+>   > - 날씨 외부 API 연동
+>   >  > - 외부 WeatherAPI로부터 대구의 실시간 기온과 날씨 상태를 추출
+>   >  > - 추출된 날씨 데이터는 추후 코디 추천 기능과 연계
+>   
 > - **기술스택**
->   - Backend: JAVA spring
+>   - Backend: Java, Spring Boot
 >   - Frontend: React
->   - DB: MySQL
+>   - DataBase: MySQL
 >   - Tools: GitHub, StarUML
 > 
 > - **레포지토리 링크**  
@@ -54,9 +56,9 @@
 > - **주요 작업**
 >   
 > - **기술스택**
->   - Backend: JAVA spring
+>   - Backend: Java, Spring Boot
 >   - Frontend: React
->   - DB: MySQL
+>   - DataBase: MySQL
 >   - Tools: GitHub, StarUML
 >     
 > - **레포지토리 링크**  

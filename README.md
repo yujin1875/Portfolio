@@ -41,25 +41,35 @@
 >   
 > - **기술스택**
 >   - Backend: Java, Spring Boot
->   - Frontend: React
+>   - Frontend: React, HTML, CSS, JavaScript 
 >   - DataBase: MySQL
->   - Tools: GitHub, StarUML
+>   - Tools: GitHub, IntelliJ IDEA, GCP, StarUML
 > 
 > - **레포지토리 링크**  
 >   [🔗 View Repo](https://github.com/yujin1875/SE-Dressing)
 
-> ### 🌐 App Development Project – "Goseumdochi 학원 강의 포털 & AI 커뮤니티"
+> ### 🌐 App Development Project – "Goseumdochi 학원 강의 포털 & 커뮤니티"
 > - **개요**  
->
+>   - 고등학생을 대상으로 학원 강의, 커뮤니티, 맞춤형 학습 경로 추천을 제공하는 통합 온라인 교육 플랫폼입니다.
+>   - 학생과 학원 운영자, 관리자가 사용할 수 있는 기능을 구현하여 실제 웹 서비스 환경에서 동작하는 시스템을 완성했습니다.
 > - **문서 자료**
+>   - [프로젝트보고서](https://drive.google.com/file/d/1q4aJ57_6ZKAV0ITXAFgmyMR-nrAs1iff/view?usp=sharing)
 >   
 > - **주요 작업**
+>   > - 회원 관리 및 인증 기능
+>   >  > - 회원가입, 로그인, 아이디/비밀번호 찾기, 임시 비밀번호 이메일 발송, 마이페이지, 프로필 사진 등록/수정  
+>   > - 학생 기능 구현
+>   >  > - 수업 자료 조회, 과제 확인 및 제출, 교과 정보 확인, 과목 공지사항 확인, 과제/시험 응시 및 제출
+>   > - 선생님 기능 구현
+>   >  > - 수업 자료 업로드, 시험/과제 문제 출제, 채점, 평가 및 점수 관리
+>   > - 파일 관리
+>   >  > - GCP GCS를 활용한 이미지 파일, PDF 등 학습 자료 관리  
 >   
 > - **기술스택**
 >   - Backend: Java, Spring Boot
->   - Frontend: React
+>   - Frontend: React, HTML, CSS, JavaScript 
 >   - DataBase: MySQL
->   - Tools: GitHub, StarUML
+>   - Tools: GitHub, IntelliJ IDEA, GCP, figma, erd cloud, StarUML
 >     
 > - **레포지토리 링크**  
 >   [🔗 View Repo](https://github.com/yujin1875/Goseumdochi-official)

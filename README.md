@@ -4,23 +4,7 @@
 
 ## 💻 Projects 
 
-> ### 📱 App Analysis & Design Project – "우리 동네 맛집은 어디?"
->
-> - **개요**  
->   - 어플 개발에 앞서 요구사항 분석과 설계 활동을 수행하고 문서화한 프로젝트입니다.  
->   - 실제 구현 전 단계에서 체계적인 설계 경험을 쌓았습니다.
->
-> - **문서자료**  
->   - [SDS(다이어그램 및 프로토타입)](https://github.com/yujin1875/SW_project1/tree/main/Final%20Report)
->
-> - **주요활동**  
->   - 어플 개발 전 체계적인 설계 과정을 경험하고 문서화  
->   - 요구사항과 설계 구조를 명확히 정의하여 개발 준비
->
-> - **레포지토리 링크**  
->   [🔗 View Repo](https://github.com/yujin1875/SW_project1)
-
-> ### 🌐 App Development Project – "Dressing 옷 코디 추천 시스템"
+> ### 🌐 WEB Development – "Dressing 옷 코디 추천 시스템"
 > 
 > - **개요**  
 >   - 사용자가 옷을 등록하고 카테고리별로 관리하며, ai 코디 추천 기능을 제공하는 웹 애플리케이션을 개발한 프로젝트입니다.  
@@ -48,7 +32,7 @@
 > - **레포지토리 링크**  
 >   [🔗 View Repo](https://github.com/yujin1875/SE-Dressing)
 
-> ### 🌐 App Development Project – "Goseumdochi 학원 강의 포털 & 커뮤니티"
+> ### 🌐 WEB Development – "Goseumdochi 학원 강의 포털 & 커뮤니티"
 > - **개요**  
 >   - 고등학생을 대상으로 학원 강의, 커뮤니티, 맞춤형 학습 경로 추천을 제공하는 통합 온라인 교육 플랫폼입니다.
 >   - 학생과 학원 운영자, 관리자가 사용할 수 있는 기능을 구현하여 실제 웹 서비스 환경에서 동작하는 시스템을 완성했습니다.
@@ -74,7 +58,23 @@
 > - **레포지토리 링크**  
 >   [🔗 View Repo](https://github.com/yujin1875/Goseumdochi-official)
 
-> ### 👥 Collaborative Fork & Feature Development Project
+> ### 📱 WEB Analysis & Design - "우리 동네 맛집은 어디?"
+>
+> - **개요**  
+>   - 어플 개발에 앞서 요구사항 분석과 설계 활동을 수행하고 문서화한 프로젝트입니다.  
+>   - 실제 구현 전 단계에서 체계적인 설계 경험을 쌓았습니다.
+>
+> - **문서자료**  
+>   - [SDS(다이어그램 및 프로토타입)](https://github.com/yujin1875/SW_project1/tree/main/Final%20Report)
+>
+> - **주요활동**  
+>   - 어플 개발 전 체계적인 설계 과정을 경험하고 문서화  
+>   - 요구사항과 설계 구조를 명확히 정의하여 개발 준비
+>
+> - **레포지토리 링크**  
+>   [🔗 View Repo](https://github.com/yujin1875/SW_project1)
+
+> ### 👥 Collaborative Fork & Feature Development
 >
 > - **개요**  
 >   100명이 넘는 학생들과 함께 진행한 협력 프로젝트입니다.  
@@ -87,13 +87,25 @@
 >   - Git을 활용한 버전 관리와 협업 경험 습득  
 >   - 팀원 간 이슈 트래킹 및 커뮤니케이션
 >
-> - **참여 레포지토리**  
->   - [OSS_Paint_2024-1](https://github.com/yujin1875/OSS_Paint_2024-1) – 그림판 관련 기능 구현  
+> - **참여 레포지토리 및 작업 내용**  
+>   - [OSS_Paint_2024-1](https://github.com/yujin1875/OSS_Paint_2024-1) – 그림판 관련 기능 구현
+>   > - Todo list 템플릿 구현  
+>   > - 마름모, 밤하늘, 벽돌, 벌집, 체커보드 등 반복 패턴 기능 + 색상 조절  
+>   > - 그라데이션 브러시, 연필 브러시 기능 추가  
+>   > - 텍스트 굵기, 기울임꼴, 밑줄, 글꼴 선택 및 크기 조절, 색상 변경 기능  
+>   > - 자동 캡처 저장 및 백그라운드 이미지 설정  
+>   > - 컨버스 달력/악보 템플릿 추가
 >   - [OSS_Account_2024-1](https://github.com/yujin1875/OSS_Account_2024-1) – 가계부 관리 기능 구현
->
+>   > - 지출 추세 그래프 생성 기능 추가  
+>   > - 카테고리별 항목 필터링 기능 추가
+
 > - **성과**  
 >   - 대규모 협업 환경에서 Git과 Fork 기반 협업 프로세스를 경험  
 >   - 기능 개발 뿐만 아니라 코드 리뷰와 통합 과정까지 참여하며 실무형 협업 역량 향상
+>     
+> - **기술스택**
+>   - Language : python
+>   - Tools: GitHub, Sourcetree
 
 ## 📜 Certifications
 > - ADSP (데이터분석준전문가, 2023)  

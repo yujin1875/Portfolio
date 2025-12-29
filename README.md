@@ -10,7 +10,7 @@
 >   - 단순 기능 확인을 넘어, 테스트를 자동화하고 Jenkins CI/CD 파이프라인을 통해 테스트 자동 실행 환경을 구축했습니다.
 > - **문서 자료**
 >   - [테스트계획서, 테스트케이스, 테스트결과보고서, Jenkins보고서, 시연영상] 
->   - (https://drive.google.com/drive/folders/1uY2gyt-DAuWVxbD7FLldfAGoSrK9UwWi?usp=sharing)
+>   - [산출물](https://drive.google.com/drive/folders/1uY2gyt-DAuWVxbD7FLldfAGoSrK9UwWi?usp=sharing)
 >   
 > - **주요 작업**
 >   > - 자동화 테스트 설계 및 구현

@@ -134,9 +134,3 @@
 > - **기술스택**
 >   - Language : python
 >   - Tools: GitHub, Sourcetree
-
-## 📜 Certifications
-> - ADSP (데이터분석준전문가, 2023)  
-> - SQLD (SQL 개발자, 2024)  
-> - ISTQB Certified Tester Foundation (2025)
-> - 정보처리기사 (2025)

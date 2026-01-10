@@ -4,6 +4,37 @@
 
 ## 💻 Projects 
 
+> ### 🧪 QA Automation – "API 테스트 자동화 및 CI 환경 실습 프로젝트"
+> 
+> - **개요**  
+>   - Node.js 기반 REST API 서버를 대상으로 API 테스트 자동화 흐름을 실습한 QA 프로젝트입니다.  
+>   - Postman 및 pytest 기반 API 테스트를 구현하고, GitHub Actions CI 환경에서 MySQL 테스트 DB를 연동하여  
+>     push 시 자동으로 테스트가 실행되는 환경을 구성했습니다.
+> 
+> - **주요 작업**
+>   > - API 테스트 자동화 구현  
+>   >  > - pytest + requests 기반 REST API 테스트 작성  
+>   >  > - Fixture 및 parametrize를 활용한 테스트 구조화  
+>   >  > - 상태 코드, 응답 데이터, 예외 케이스 검증  
+>   > - 데이터베이스 연동 테스트  
+>   >  > - MySQL 연동 API(/ping, /users) 테스트  
+>   >  > - DB 헬스체크 및 CRUD 동작 검증  
+>   > - CI 환경 테스트 자동화  
+>   >  > - GitHub Actions 워크플로우 구성  
+>   >  > - CI 환경에서 MySQL 서비스 컨테이너 실행  
+>   >  > - init.sql 기반 테스트 DB 초기화 및 시드 데이터 구성  
+>   >  > - 로컬 환경과 CI 환경의 DB 설정을 환경변수로 분리하여 테스트 안정성 확보
+> 
+> - **기술스택**
+>   - Test Automation: Python, pytest, requests  
+>   - Backend: Node.js 
+>   - DataBase: MySQL  
+>   - CI/CD: GitHub Actions  
+>   - Tools: Postman, Newman, VSCode, GitHub
+> 
+> - **레포지토리 링크**  
+>   [🔗 View Repo](https://github.com/yujin1875/simple-api-server-python)
+
 > ### 🧪 QA Automation– "F1 - AI 핼피봇 서비스 QA 및 테스트 자동화"
 > - **개요**  
 >   - AI 챗봇을 제공학는 웹 서비스에 대해 Selenium + Pytest 기반 자동화 테스트를 설계, 구현한 QA 프로젝트입니다.
